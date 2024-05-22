@@ -1,5 +1,5 @@
 # WebsitesDeployed
-## Django, MERN with TS etc. For interviews, request access for code. Thank you. 
+## Django, MERN with TS etc. For interviews, request access to see code. Thank you. 
 
 # 1. Food order app DragonEats.com
 # https://dragoneats-foodorderapp-backend.onrender.com
