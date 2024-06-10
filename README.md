@@ -12,10 +12,12 @@
 ## React + TypeScript + Vite
 
 # 2. Django Career shifters website,
-## All functionality works except media files
+## All functionality works except media files, since you have to pay for disc space or use cloudinary, 
+## Can also use static media/profile pics with nginx........................
+## If website does not work then my free PostgreSQL subscription is completed. 
 ## 1. https://careershiftforum.onrender.com, with PostgreSQL, render.yaml and build.sh files
-## as blueprint instance
-## Still figuring out static media/profile pics with nginx........................
+## as blueprint instance, 
+
 ## 2. https://djangocareershifterswebsite.onrender.com, with SQLite3
 ## deployed with sqlite3, also does not serve profile picture/media
 ## migrates all of datebase info and admin
