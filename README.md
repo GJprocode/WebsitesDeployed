@@ -1,4 +1,4 @@
-![image](https://github.com/GJprocode/WebsitesDeployed/assets/132646907/5e271a14-10e5-4647-a736-a6cce868d33c)# WebsitesDeployed
+# WebsitesDeployed
 ### Django, MERN with TS etc. For interviews, request access to see code. Thank you. 
 
 # 1. Food order app DragonEats.com
