@@ -6,7 +6,7 @@
 ## https://dragoneats-foodorderapp-frontend.onrender.com
 
 
-### Deployed 50% of project on render.com: 
+### Deployed 75% of project on render.com: 
 ### Login with google or email and MongoDB will update user database as per changes to your user profile & Manage Restaurant form...
 ### Main Nav and mobile Nav (Will work on Phone/resize) as per best practise when starting a web app.
 ### MERN + TypeScript + Vite + Links below...
