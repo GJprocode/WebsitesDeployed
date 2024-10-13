@@ -20,7 +20,7 @@
 ### as blueprint instance, deleted subscription PostgreSQL done. 
 
 # 3. Django Career shifters website, Live
-## website for interacting in a forum and rooms iwth career shifters
+## website for interacting in a forum and rooms with career shifters
 ## https://djangocareershifterswebsite.onrender.com, with SQLite3, Live
 ### deployed with sqlite3, also does not serve profile picture/media
 ### Cloudinary for image uploads
