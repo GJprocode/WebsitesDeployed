@@ -25,7 +25,7 @@ Email communication functionalities (like order confirmations) are not yet imple
 #### Alternative Mapping Services:
 The app intends to use a affordable & reliable mapping services and tracking of driver/orders, selecting from four options based on predicted traffic.
 
-#### Hessian Formula (Distance/Time):
+#### Haversine Formula (Distance/Time):
 Implementation of the Hessian formula is halfway implimneted for potentially more accurate distance and travel time calculations.
 
 #### Wholesale Order Handling:
