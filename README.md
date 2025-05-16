@@ -12,7 +12,8 @@
 #### MongoDB: https://mongodb.com
 #### Render: https://render.com
 #### Google & facebook for devs
-#### Admin panel complete for contracts and giving access to restautrtnt edit and wholesaale for approval
+#### Admin panel complete for contracts and giving access to restaurant edit and wholesale for approval
+#### Business and finacial/budget model complete. 
 #### Uncompleted Features:
 
 #### Driver Panel (Accept/Ignore Order):
