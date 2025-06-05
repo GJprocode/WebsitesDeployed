@@ -26,7 +26,7 @@ Email communication functionalities (like order confirmations) are not yet imple
 The app intends to use a affordable & reliable mapping services and tracking of driver/orders, selecting from four options based on predicted traffic.
 
 #### Haversine Formula (Distance/Time):
-Implementation of the Haversine formula is halfway implimneted for potentially more accurate distance and travel time calculations.
+Implementation of the Haversine formula is halfway implemented for potentially more accurate distance and travel time calculations.
 
 #### Wholesale Order Handling:
 Separate processing and management for wholesale orders are not yet complete.
