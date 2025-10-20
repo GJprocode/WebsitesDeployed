@@ -2,7 +2,7 @@
 # WebsitesDeployed
 ### Django, MERN with TS, C# ASP .NET core WEB API etc. For interviews, request access to see code. Thank you. 
 
-# 1. Food order app, per request
+# 1. Food order app, per request, Suspended
 ### https://dragoneats-foodorderapp-frontend.onrender.com
 ### Deployed 75% of project on render.com: 
 ### MERN + TypeScript + Vite + Links below...
@@ -40,7 +40,7 @@ Separate processing and management for wholesale orders are not yet complete.
 ### 1. https://careershiftforum.onrender.com, with PostgreSQL, render.yaml and build.sh files
 ### as blueprint instance, deleted subscription PostgreSQL done. 
 
-# 3. Django Career shifters website, Live
+# 3. Django Career shifters website, Suspended
 ## website for interacting in a forum and rooms with career shifters
 ## https://djangocareershifterswebsite.onrender.com, with SQLite3, Live
 ### deployed with sqlite3, also does not serve profile picture/media
