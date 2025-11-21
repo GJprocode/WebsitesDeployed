@@ -40,7 +40,7 @@ Separate processing and management for wholesale orders are not yet complete.
 ### 1. https://careershiftforum.onrender.com, with PostgreSQL, render.yaml and build.sh files
 ### as blueprint instance, deleted subscription PostgreSQL done. 
 
-# 3. Django Career shifters website, Suspended
+# 3. Django Career shifters website
 ## website for interacting in a forum and rooms with career shifters
 ## https://djangocareershifterswebsite.onrender.com, with SQLite3, Live
 ### deployed with sqlite3, also does not serve profile picture/media
